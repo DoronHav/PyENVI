@@ -1,0 +1,11 @@
+[build-system]
+requires = ["tensorflow>=2.4", 
+"numpy", 
+'tensorflow_probability>=0.12.0', 
+'sklearn',
+'scipy',
+'anndata',
+'scanpy',
+'pandas']
+
+build-backend = "setuptools.build_meta"
