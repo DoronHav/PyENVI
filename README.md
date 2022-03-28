@@ -15,7 +15,7 @@ To install PhenoGraph, simply run the setup script:
 
 Or use:
 
-    pip3 install git+https://github.com/doronhaviv/PyENVI.git
+    pip3 install git+https://github.com/DoronHav/PyENVI.git
 
 
 Expected use is within a script or interactive kernel running Python `3.x`. Data are expected to be passed as anndata
